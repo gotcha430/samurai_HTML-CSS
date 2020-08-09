@@ -1,0 +1,15 @@
+@charset"UTF-8";
+
+#blue{
+ color:blue;
+}
+.purple{
+  color:purple;
+ 
+}
+.fs-25{
+  font-size:25px;
+}
+.fw-bold{
+  font-weight:bold;
+}
